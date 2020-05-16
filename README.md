@@ -1,2 +1,3 @@
-# CS
-It will contain my coding projects from my junior and senior year.
+# Big Data Analytics Project
+It contains code and link to datasets from my Big Data Analytics project.
+
